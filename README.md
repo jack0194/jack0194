@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jack0194
 - 👀 I’m interested in Gaming, Computers and Sports
-- 🌱 I’m currently learning HTML/HTML5, CSS, XTML, Java and Python
-- 💞️ I’m looking to collaborate on anything ralating to HTML/HTML5 or css. Ive done some Java and Python but mainly HTML. 
+- 🌱 I’m currently learning HTML/HTML5, CSS, XTML, Javascript
+- 💞️ I’m looking to collaborate on anything relating to HTML/HTML5, CSS, XTML, Javascript. 
 - 📫 How to reach me jacklaverty94@gmail.com or https://www.facebook.com/JackLaverty094/
 
 <!---
